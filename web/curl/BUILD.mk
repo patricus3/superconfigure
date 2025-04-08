@@ -1,5 +1,5 @@
 
-CURL_SRC := https://github.com/curl/curl/releases/download/curl-8_10_1/curl-8.10.1.tar.gz
+CURL_SRC := https://github.com/curl/curl/releases/download/curl-8_13_0/curl-8.13.0.tar.gz
 
 CURL_DEPS := \
 	lib/openssl lib/libssh2 lib/libpsl \
